@@ -61,8 +61,7 @@ tokenized_output = tokenizer.apply_chat_template(
 
 ## Visual Comparison
 
-| Original (No Masking) | All Assistant | Final Assistant |
+| Original | All Assistant | Final Assistant |
 |:---:|:---:|:---:|
-| All tokens are white - no masking | Blue tokens show all assistant responses are masked | Blue tokens show only final assistant response is masked |
-| <img width="195" height="180" alt="original" src="https://github.com/user-attachments/assets/d8655a4a-931b-4eb5-aecf-60b47b4da708" /> | <img width="191" height="179" alt="all_assistant" src="https://github.com/user-attachments/assets/f63d0c6d-8cb8-48b3-b8d4-bb70f02134a8" /> | <img width="195" height="179" alt="final_assistant" src="https://github.com/user-attachments/assets/c1842f4e-55f3-4e1f-8732-fe214089fb0b" /> |
+| <img width="191" height="179" alt="all_assistant" src="https://github.com/user-attachments/assets/f63d0c6d-8cb8-48b3-b8d4-bb70f02134a8" />| <img width="195" height="180" alt="original" src="https://github.com/user-attachments/assets/d8655a4a-931b-4eb5-aecf-60b47b4da708" />  | <img width="195" height="179" alt="final_assistant" src="https://github.com/user-attachments/assets/c1842f4e-55f3-4e1f-8732-fe214089fb0b" /> |
 

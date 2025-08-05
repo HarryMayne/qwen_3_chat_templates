@@ -65,3 +65,4 @@ tokenized_output = tokenizer.apply_chat_template(
 |:---:|:---:|:---:|
 | <img width="191" height="179" alt="all_assistant" src="https://github.com/user-attachments/assets/f63d0c6d-8cb8-48b3-b8d4-bb70f02134a8" />| <img width="195" height="180" alt="original" src="https://github.com/user-attachments/assets/d8655a4a-931b-4eb5-aecf-60b47b4da708" />  | <img width="195" height="179" alt="final_assistant" src="https://github.com/user-attachments/assets/c1842f4e-55f3-4e1f-8732-fe214089fb0b" /> |
 
+Credit to [Ed Beeching](https://huggingface.co/Qwen/Qwen3-8B/discussions/14) for writing the visualisation code.

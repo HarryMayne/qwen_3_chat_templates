@@ -6,6 +6,7 @@ Modified chat templates for Qwen 3 8B. Useful for multi-turn reinforcement learn
 
 ### `all_assistant.jinja`
 Returns a mask with **all assistant tokens**. The generation mask is applied to all assistant responses in the conversation.
+Credit to [Alexander Kovrigin](https://huggingface.co/Qwen/Qwen3-8B/discussions/14) for writing this.
 
 ### `final_assistant.jinja` 
 Returns a mask with **only the final assistant tokens**. The generation mask is applied only to the last assistant response in the conversation.

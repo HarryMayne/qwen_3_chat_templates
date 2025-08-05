@@ -58,5 +58,3 @@ tokenized_output = tokenizer.apply_chat_template(
 # }
 
 ```
-
-These templates are useful for multi-turn RL training where you need different masking strategies for computing losses on assistant responses.

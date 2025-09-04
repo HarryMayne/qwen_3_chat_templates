@@ -1,6 +1,6 @@
 # Qwen 3 Chat Templates
 
-Modified chat templates for Qwen 3 8B. Useful for multi-turn reinforcement learning.
+Modified chat templates for Qwen 3 8B. Useful for multi-turn SFT
 
 ## Templates
 
